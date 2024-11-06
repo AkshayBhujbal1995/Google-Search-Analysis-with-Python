@@ -1,7 +1,3 @@
-Here's a simple **README** file for your Google Search Analysis with Python project:
-
----
-
 # Google Search Analysis with Python
 
 This project uses **Pytrends** and Python to analyze search trends for the keyword **"Data Analyst"**. The goal of this analysis is to understand how the interest in the "Data Analyst" role has evolved over time and which regions show the highest interest.
@@ -110,7 +106,3 @@ In this project, we analyzed search trends for the keyword **“Data Analyst”*
 2. **Interest by Region**: We discovered the regions where the "Data Analyst" role is most searched, highlighting areas with higher demand for this job role.
 
 This project demonstrates the power of Google Trends data to analyze global interest in specific job roles, like **Data Analyst**, and gain valuable insights for career or market trend analysis.
-
----
-
-You can save this text as a `README.md` file in your project directory to help others understand the purpose and steps involved in your Google search analysis project!
